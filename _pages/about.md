@@ -9,10 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
+    <a href='https://www.google.com/maps/place/Mathematics+and+Science+Center/@33.7903852,-84.3264724,15z/data=!4m5!3m4!1s0x0:0xef343a0b329f3dd0!8m2!3d33.7903852!4d-84.3264724?shorturl=1'><p>N229 MSC</p>
+    <p>400 Dowman Drive</p>
+    <p>Atlanta, Georgia 30322</p>
+    <a href="mailto: chengling.li@emory.edu " ><i class="fa-regular fa-envelope" title="email"></i></a>
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
