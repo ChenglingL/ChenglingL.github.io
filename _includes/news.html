@@ -13,13 +13,16 @@
               {% endif %}
               {% for item in news limit: news_limit %} 
                 <tr>
-                  <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
+                  <th style="width:20%" scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
+                  <th>
+                    <a style="font-size:large;" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                  </th>
+                </tr>
+                <tr>
+                  <td></td>
                   <td>
-                    {% if item.inline -%} 
-                      {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
-                    {%- else -%} 
-                      <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
-                    {%- endif %} 
+                    {{ item.content | emojify }}
+                    {{ item.image}}
                   </td>
                 </tr>
               {%- endfor %} 

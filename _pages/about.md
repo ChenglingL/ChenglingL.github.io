@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://physics.emory.edu/home/index.html'>Department of Physics, Emory University</a>.
 
 profile:
   align: right
@@ -11,15 +11,19 @@ profile:
   address: >
     <a href='https://www.google.com/maps/place/Mathematics+and+Science+Center/@33.7903852,-84.3264724,15z/data=!4m5!3m4!1s0x0:0xef343a0b329f3dd0!8m2!3d33.7903852!4d-84.3264724?shorturl=1'><p>N229 MSC</p>
     <p>400 Dowman Drive</p>
-    <p>Atlanta, Georgia 30322</p>
-    <a href="mailto: chengling.li@emory.edu " ><i class="fa-regular fa-envelope" title="email"></i></a>
+    <p>Atlanta, Georgia 30322</p></a>
+# <a href="mailto: chengling.li@emory.edu " ><i class="fa-regular fa-envelope" title="email"></i></a>
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, this is Chengling Li! I'm a Ph.D. student in Physics at Emory University. My Ph.D. advisor is Prof. [Daniel Sussman](https://physics.emory.edu/home/people/bios/sussman-daniel.html), and [our lab](https://www.dmsussman.org/) uses theoretical and computational techniques to study a wide variety of soft condensed matter systems both in and out of equilibrium. I investigate the anomalous glassy behaviors in simple cimputational cell models (the Voronoi cell model and the Vertex model).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+As exploring the scientific world, I've built an interest in complex systems, especially from the perspective of the potential energy landscape. The idea of the energy landscape constructs a bridge connecting the microscopic world to the macroscopic properties. The understanding of this connection requires physical pictures built from the statistical mechanics and various computational tools like machine learning. I have been studying extensively in the field and find that so many things are intriguing! I'm also a huge fan of math, even though I'm not good at it!
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+{% comment %} 
+  Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically
+  Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+{% endcomment %}
