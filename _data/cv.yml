@@ -17,14 +17,14 @@
       description:
         - <i> Ph.D. in Physics.</i> 
         - <i> Advisor&#58 Prof. <a href='https://physics.emory.edu/home/people/bios/sussman-daniel.html'>Daniel sussman</a></i>
-        - GPA&#58 4.00/4.00
+        - <i> GPA&#58 4.00/4.00</i>
 
     - title: <i> B.S. </i>
       institution: Tongji University, Shanghai, China
       year: 2016 - 2020
       description:
-        - Major&#58 Applied Physics
-        - GPA&#58 87.28/100.00
+        - <i> B.S. in Applied Physics</i>
+        - <i> GPA&#58 87.28/100.00 </i>
 
 - title: Experience
   type: time_table
@@ -35,7 +35,7 @@
       description:
         - <i> Advisor&#58 Prof. <a href='https://seas.yale.edu/faculty-research/faculty-directory/corey-s-ohern'>Corey O'Hern</a></i>
         - <i> Started researching in the field of soft matter
-        - title: <i>Investigated some mechanical properties of jammed systems</i>
+        - title: <i>Investigated mechanical properties of some jammed systems</i>
           contents:
             - <i>Investigated the reversibility of shear deformation of jammed systems</i>
             - <i>Contributed to the investigation of the mechanical response of circular-lines (see <a href='https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.014901'> the paper</a>)</i>
