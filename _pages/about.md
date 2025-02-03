@@ -18,9 +18,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, this is Chengling Li! I'm a Ph.D. student in Physics at Emory University. My Ph.D. advisor is Prof. [Daniel Sussman](https://physics.emory.edu/home/people/bios/sussman-daniel.html), and [our lab](https://www.dmsussman.org/) uses theoretical and computational techniques to study a wide variety of soft condensed matter systems both in and out of equilibrium. I investigate the anomalous glassy behaviors in simple cimputational cell models (the Voronoi cell model and the Vertex model).
+Hi, this is Chengling Li! I'm a Ph.D. student in Physics at Emory University. My Ph.D. advisor is Prof. [Daniel Sussman](https://physics.emory.edu/home/people/bios/sussman-daniel.html), and [our lab](https://www.dmsussman.org/) uses theoretical and computational techniques to study a wide variety of soft condensed matter systems both in and out of equilibrium. My research mainly focus the anomalous glassy behaviors in simple cimputational cell models (the Voronoi cell model and the Vertex model).
 
-As exploring the scientific world, I've built an interest in complex systems, especially from the perspective of the potential energy landscape. The idea of the energy landscape constructs a bridge connecting the microscopic world to the macroscopic properties. The understanding of this connection requires physical pictures built from the statistical mechanics and various computational tools like machine learning. I have been studying extensively in the field and find that so many things are intriguing! I'm also a huge fan of math, even though I'm not good at it!
+As exploring the scientific world, I've built an interest in complex systems, especially from the perspective of the potential energy landscape. The idea of the energy landscape constructs a bridge connecting the microscopic world to the macroscopic properties. The understanding of this connection requires physical pictures built from the statistical mechanics and various computational tools like machine learning. I have been studying extensively in the field and find that so many things are intriguing!
 
 
 {% comment %} 
